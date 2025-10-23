@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Executar app",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/app",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "MIMode": "gdb",
+      "miDebuggerPath": "/usr/bin/gdb",
+      "preLaunchTask": "build app"
+    }
+  ]
+}
