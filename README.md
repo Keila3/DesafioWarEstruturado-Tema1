@@ -1,4 +1,4 @@
-# EstruturaDeDados-Desafios
+# Desafio War Estruturado
 
 Projeto em C que simula cadastro e conflitos entre territórios.
 
